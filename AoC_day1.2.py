@@ -1,4 +1,4 @@
-inputFile = open("/Users/i342023/Documents/modules.txt", "r")
+inputFile = open("inputs/modules.txt", "r")
 
 sum_fuel = 0
 for i in inputFile:
